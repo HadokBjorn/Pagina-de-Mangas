@@ -7,6 +7,10 @@ body {
   background-position: center top;
   background-repeat: no-repeat;
 }
+.container{
+  margin: 0.5rem;
+  padding: .8rem;
+}
 
 .page-title {
   color: #ffffff;
@@ -23,5 +27,41 @@ a {
   float: left;
   background-color: #111111;
   margin-left: 10px;
-  border-radius: 1rem;;
+  border-radius: 1rem;
+  margin: 2rem;
+  padding: .5rem;
+}
+.mangaspace{
+  display: grid;
+  grid-template-columns: 1fr;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+@media screen and (min-width: 992px) {
+  .mangaspace {
+      max-width: 992px;
+      height: auto;
+      margin: 1rem auto;
+      border-radius: 1rem;
+  }
+}
+
+@media screen and (min-width: 380px) {
+  .mangaspace {
+      grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .mangaspace {
+      grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .mangaspace {
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
 }
