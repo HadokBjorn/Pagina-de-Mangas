@@ -29,7 +29,7 @@ let bibliotecaMangas = [
   {
     link: "https://comic-walker.com/contents/detail/KDCW_CW01000003020000_68/",
     nome: "Neon Genesis Evangelion",
-    img: "/imagens/evangelion",
+    img: "/imagens/evangelion.jpg",
   },
   {
     link: "https://mangaplus.shueisha.co.jp/titles/100018",
