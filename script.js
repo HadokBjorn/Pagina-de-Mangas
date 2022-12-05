@@ -1,43 +1,43 @@
 let bibliotecaMangas = [
   {
-    link: "https://mangalivre.net/manga/jujutsu-kaisen/7178",
+    link: "https://mangaplus.shueisha.co.jp/titles/100150",
     nome: "Jujutsu Kainsen",
     img: "/imagens/jujutsu-kainsen.jpg",
   },
   {
-    link: "https://mangalivre.net/manga/boku-no-hero-academia/1319",
+    link: "https://mangaplus.shueisha.co.jp/titles/100017",
     nome: "Boku no Hero Academy",
     img: "/imagens/boku-no-hero.jpg",
   },
 
   {
-    link: "https://mangalivre.net/manga/shingeki-no-kyojin/210",
+    link: "https://www.amazon.com/Attack-Titan-Vol-Hajime-Isayama-ebook/dp/B00CCOO1HA/ref=sr_1_1?crid=3AXTB46008LTF&keywords=attack+on+titan&qid=1670210779&s=comics-manga&sprefix=at%2Ccomics-manga%2C311&sr=1-1",
     nome: "Shingeki no Kyojin",
     img: "/imagens/shingeki-no-kyojin.jpg",
   },
   {
-    link: "https://mangalivre.net/manga/kimetsu-no-yaiba/3364",
+    link: "https://mangaplus.shueisha.co.jp/titles/100009",
     nome: "Kimetsu no Yaiba",
     img: "/imagens/kimetsu-no-yaiba.jpg",
   },
   {
-    link: "https://mangalivre.net/manga/one-piece/13",
+    link: "https://mangaplus.shueisha.co.jp/titles/100149",
     nome: "One Piece",
     img: "/imagens/one-piece.jpg",
   },
 
   {
-    link: "https://mangalivre.net/manga/one-punch-man/1036",
-    nome: "One Punch Man",
-    img: "/imagens/one-punch-man.jpg",
+    link: "https://comic-walker.com/contents/detail/KDCW_CW01000003020000_68/",
+    nome: "Neon Genesis Evangelion",
+    img: "/imagens/evangelion",
   },
   {
-    link: "https://mangalivre.net/manga/naruto/1",
+    link: "https://mangaplus.shueisha.co.jp/titles/100018",
     nome: "Naruto",
     img: "/imagens/naruto.jpg",
   },
   {
-    link: "https://mangalivre.net/manga/bleach/2",
+    link: "https://mangaplus.shueisha.co.jp/titles/100004",
     nome: "Bleach",
     img: "/imagens/bleach.jpg",
   },
